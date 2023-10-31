@@ -1,3 +1,0 @@
-baris 1
-baris 3
-baris 2
